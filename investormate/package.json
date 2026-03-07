@@ -10,7 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "bknd": "^0.20.0",
+    "@hono/vite-dev-server": "^0.25.0",
+    "bknd": "^0.15.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
